@@ -1,3 +1,7 @@
+![license](https://img.shields.io/badge/license-MIT-blue.svg)  
+![node.js](https://img.shields.io/badge/node.js-v14.18.2-green)
+![F-RevoCRM](https://img.shields.io/badge/F--RevoCRM-v7.3.5-blue)
+
 # F-RevoCRM API Sample
 ## init
 ```
